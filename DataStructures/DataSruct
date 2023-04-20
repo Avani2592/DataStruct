@@ -1,0 +1,37 @@
+Built in Data Stuct
+
+Array
+object
+sets
+maps
+
+Custom data struct
+
+Stacks
+Queues
+Circular Queues
+Linked lists
+Has tables
+Trees
+Graphs
+
+
+
+Set vs Array
+
+Array can contain duplicate values . Set can not
+Insertion order maitain in Array.  not the case with sets
+Searching and deleting an element in the set is faster compared to arrays
+
+
+Object vs maps
+
+Objext are unordered whereas maps are ordered
+Key in objects can only be string or symbol type whereas in maps, they can be of any type
+object has an prototype and may contain a few default keys which may collide with your own keys if you're not careful.A map on the other hand does not contain any keys by default
+Object are not iterable . maps are iterable
+The number of items in an Object must be detemined manually whereas readily available with the size property in a map
+Apart from storing data, you can attach funtionality to an object whereas maps are restricted to just storing data.
+
+
+
